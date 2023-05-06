@@ -36,10 +36,8 @@
 /* font-family: 'Yeseva One', cursive; */
 
 .catalogo{
-    border: 2px;
-    border-color: black;
-    border-style: solid;
-    height: 95vh;
+
+    height: 130vh;
     width: 95vw;
     display: flex;
     align-items: center;
@@ -55,10 +53,8 @@
 .catalogo_produtos{
     text-decoration: underline;
     font-family: 'Yeseva One', cursive;
-    border: 2px;
-    border-color: royalblue ;
-    border-style: solid;
-    height: 100vh;
+
+    height: 95%;
     width:  95%;
     display: flex;
     align-items: center;
@@ -68,7 +64,7 @@
 
 .catalogo_produtos_item {
     width: 20%;
-    height: 20vh;
+    height: 40vh;
     padding: 3rem 0 5rem 0;
     border: 2px;
     border-color: rgb(40, 40, 99);
